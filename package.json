@@ -1,0 +1,22 @@
+{
+  "name": "typescript_blockchain_221203",
+  "version": "1.0.0",
+  "description": "- ReactJS 프로젝트는 TypeScript를 기본적으로 가지고 있다 - 종종 TypeScript를 직접 설정해줘야 한다",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangdongil/typescript_blockchain_221203.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangdongil/typescript_blockchain_221203/issues"
+  },
+  "homepage": "https://github.com/kangdongil/typescript_blockchain_221203#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
